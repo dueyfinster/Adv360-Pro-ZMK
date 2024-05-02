@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "names": [
+      "HYPER",
+      "HYP(code)"
+    ],
+    "description": "Hyper Key (CTRL + COMMAND + ALT + SHIFT)",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "MOD"
+  }
+]
